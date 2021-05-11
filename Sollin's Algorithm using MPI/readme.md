@@ -1,4 +1,4 @@
-#Instructions to run the file
+# Instructions to run the file
 
 -	To build, run the 'make' command.
 
