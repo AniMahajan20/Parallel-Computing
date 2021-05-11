@@ -1,8 +1,3 @@
-Group members:
-Shreyas Srikrishna 2017A7PS0162P
-Aniruddha Mahajan 2017A7PS0145P
-J Lakshmi Teja 2017A7PS0068P
-
 To build, run the 'make' command.
 
 The input graph is read from a file named 'input.txt' that contains :
