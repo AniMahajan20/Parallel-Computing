@@ -2,6 +2,9 @@ README FILE
 --------------------------------
 Contents:- openmp_classes.c,makefile, readMe.txt.
 
+This code calculate the multiplication of 2 matrices using OpenMP. The number of thread used can be changed using a 'macro' called NO_OF_THREADS in the code.
+
+
 --------------
 How to run
 ---------------
