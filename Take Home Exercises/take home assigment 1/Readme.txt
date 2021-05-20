@@ -1,6 +1,6 @@
 Readme
 ----------------------------------------------------------------------
-This program calculates the value of e^x upto 10000 terms. The number of terms used for calculation can be changed using the macro 'TERMS'.
+This program calculates the value of e^x upto 100000 terms. The number of terms used for calculation can be changed using the macro 'TERMS'.
 
 
 1. How to execute
